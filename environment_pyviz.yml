@@ -1,6 +1,6 @@
-name: geoviews_bug1
+name: geoviews_bug0
 channels:
-  - conda-forge
+  - pyviz
   - defaults
 dependencies:
   - geoviews>=1.8.1
